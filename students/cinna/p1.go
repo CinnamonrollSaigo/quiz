@@ -32,8 +32,5 @@ func main(){
 		}
 		fmt.Println()
 	}
-
-
-
-
 }
+
